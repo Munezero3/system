@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.menu {
+  height: 100px;
+  background-color: #B2D6FF;
+
+  border: 1px solid #fff;
+  width: 900px;
+  display: flex;
+  justify-content: space-around;
+
+
+}
+.login {
+  margin-left: 20px;
+}
+
+.menu-container {
+  /* ... */
+
+
+  background-color: #5995DA;  /* Blue */
+  padding: 20px 0;
+  display: flex;
+  justify-content: center;    /* Add this */
+}
+
+.content {
+  height: 500px;
+  background-color: #F5CF8E;    /* Yellow */
+}
+
+.footer {
+  text-decoration-style: solid;
+  text-align: center;
+  justify-content: center;
+  height: 200px;
+  background-color: #D6E9FE;    /* Light blue */
+}
